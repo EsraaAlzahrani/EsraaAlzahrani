@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @EsraaAlzahrani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EsraaAlzahrani/EsraaAlzahrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m  Esraa Alzahrani
+- 👀 I’m interested in data analyst, data engeneer, and web develper
+- 🌱 I’m currently learning web develper specily React MERN
+- 💞️ I’m looking to collaborate on UI/UX to convert the design to real product
+- 📫 How to reach me via email any time Alzahrani.Esraa1@gmail.com
