@@ -1,5 +1,5 @@
-- 👋 Hi, I’m  Esraa Alzahrani
-- 👀 I’m interested in data analyst, data engeneer, and web develper
-- 🌱 I’m currently learning web develper specily React MERN
-- 💞️ I’m looking to collaborate on UI/UX to convert the design to real product
-- 📫 How to reach me via email any time Alzahrani.Esraa1@gmail.com
+- 👋 Hi, I’m  Esraa Alzahrani...
+- 👀 I’am interested in data analysis, data engineering , and web develope.
+- 🌱 I’m currently learning web develper specily React MERN.
+- 💞️ I’m looking to collaborate on UI/UX to convert the design to real product.
+- 📫 How to reach me via email any time Alzahrani.Esraa1@gmail.com.
